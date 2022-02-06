@@ -1,2 +1,0 @@
-prepend line in file for new git commit test
-test
