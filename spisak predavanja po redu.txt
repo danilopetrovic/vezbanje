@@ -1,0 +1,13 @@
+03.03.2017			My SQL Programming and Administration 1-8
+10.03.2017			My SQL Programming and Administration 2-8
+17.03.2017			My SQL Programming and Administration 3-8
+18.03.2017			My SQL Programming and Administration 3-8 KONSULTACIJE
+24.03.2017			My SQL Programming and Administration 4-8
+28.03.2017			Advanced JavaScript programming and Ajax 1-4
+31.03.2017			My SQL Programming and Administration 5-8
+04.04.2017			Advanced JavaScript programming and Ajax 2-4
+07.04.2017			My SQL Programming and Administration 6-8
+11.04.2017			Advanced JavaScript programming and Ajax 3-4
+18.04.2017			Advanced JavaScript programming and Ajax 4-4
+24.04.2017			My SQL Programming and Administration 7-8
+28.04.2017			My SQL Programming and Administration 8-8
