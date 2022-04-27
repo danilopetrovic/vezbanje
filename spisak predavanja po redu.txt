@@ -1,7 +1,11 @@
+28.02.2017			Core JavaScript Programming 1-4
 03.03.2017			My SQL Programming and Administration 1-8
+07.03.2017			Core JavaScript programming 2-4
 10.03.2017			My SQL Programming and Administration 2-8
+14.03.2017			Core JavaScript programming 3-4
 17.03.2017			My SQL Programming and Administration 3-8
 18.03.2017			My SQL Programming and Administration 3-8 KONSULTACIJE
+21.03.2017			Core JavaScript programming 4-4-isecene pauze
 24.03.2017			My SQL Programming and Administration 4-8
 28.03.2017			Advanced JavaScript programming and Ajax 1-4
 31.03.2017			My SQL Programming and Administration 5-8
